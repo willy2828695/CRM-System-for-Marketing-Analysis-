@@ -4,10 +4,7 @@ package model.OrderManagement;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- *
- * @author kal bugrara
- */
+
 public class MasterOrderReport {
     ArrayList<OrderSummary> orderSummaryList;
 

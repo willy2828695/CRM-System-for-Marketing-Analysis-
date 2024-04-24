@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package model.OrderManagement;
 
 import java.util.ArrayList;
@@ -10,10 +6,6 @@ import java.util.ArrayList;
 import model.CustomerManagement.CustomerProfile;
 import model.SalesManagement.SalesPersonProfile;
 
-/**
- *
- * @author kal bugrara
- */
 public class MasterOrderList {
     ArrayList<Order> orders;
     MasterOrderReport masterOrderReport;
