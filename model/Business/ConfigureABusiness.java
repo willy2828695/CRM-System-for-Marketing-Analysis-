@@ -34,10 +34,7 @@ import model.Supplier.SupplierDirectory;
 import model.SalesManagement.SalesPersonDirectory;
 import model.SalesManagement.SalesPersonProfile;
 
-/**
- *
- * @author kal bugrara
- */
+
 public class ConfigureABusiness {
 
   static int upperPriceLimit = 50;
